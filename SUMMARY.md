@@ -1,12 +1,8 @@
 ‌# Table of contents
 
-## GitBook
+## 1주차
 
-* [Git Book 가이드](README.md)
+* [개발 환경 셋팅하기]
+    * [Node.js]
 
-* [GitHub과 연동하기](/integration/integration-with-github.md)
-  * [PR 날리기](/integration/pull-request.md)
-
-## 효과적인 학습법
-
-* [미라클 모닝](miracle-morning.md)
+## 2주차
