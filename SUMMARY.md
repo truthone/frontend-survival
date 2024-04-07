@@ -3,7 +3,7 @@
 ## 1주차
 * 개발 환경 셋팅하기
   * [Node.js](setting/node.md)
-
+  * [Vite로 React 시작하기](setting/Vite로%20React%20시작하기.md)
 ## 2주차 JSX
 
 ## 3주차 React로 사고하기
